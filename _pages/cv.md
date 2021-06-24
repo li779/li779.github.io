@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Electrical Engineering, Computer Science and Mathematics, University of Wisconsin Madison, 2017-2021
+  * GPA: 3.99/4.0 
 * M.S. in Robotics, Carnegie Mellon University, 2021-present
 
 Research experience
