@@ -29,10 +29,10 @@ Awards
 * Hilldale Undergraduate Research Fellowship (2020)
 
 
-Programming Languages
+Programming Languages and softwares
 ======
-* Java/C++/C, Python, Matlab, Verilog
-* 
+* C++/C, Java, Python, Matlab, Verilog, R
+* Git, Linux System, TensorFlow, PyTorch, OpenMP, OpenGL, CMake
   
 Teaching
 ======
