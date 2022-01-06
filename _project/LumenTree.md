@@ -1,6 +1,6 @@
 ---
 title: "LumenTree"
-excerpt: "Short description of project item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of project item number 1<br/><img src='/images/scene.png'>"
 collection: project
 ---
 
