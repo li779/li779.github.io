@@ -1,6 +1,6 @@
 ---
 title: "LumenTree"
-excerpt: "<br/><img src='/images/scene.png' width="50%" height="50%">"
+excerpt: "<br/><img src='/images/scene.png'>"
 collection: projects
 ---
 
