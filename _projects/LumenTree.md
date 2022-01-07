@@ -1,7 +1,7 @@
 ---
 title: "LumenTree"
-excerpt: "<br/><img src='/images/scene.png'>"
+excerpt: "<br/><img src='/images/scene.png' width="50%" height="50%">"
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+LumenTree is a portable ray tracer written in C++. The implementation is based on Nori, an simple educational ray tracer used in the course Advanced Computer Graphics taught at EPFL. The program supports Windows, Linux, and Mac OS environment and provides basic functionality of simple ray tracing.
