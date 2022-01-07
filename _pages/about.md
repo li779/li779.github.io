@@ -12,3 +12,5 @@ I am an first-year MSR student in Robotics institute at Carnegie Mellon Universi
 
 I graduated from University of Wisconsin-Madison where I was guided by [Prof. Irena Knezevic](https://qtts.engr.wisc.edu/). My research focus was computational physics, an interdisciplinary field that applies scientific computing in solving applied physics problems. I am also interested in exploiting hardware capacity for scientific computing, such as parallel computing, cache optimization, sparse/dense matrix computation algorithm.
 
+**Check My Recent Personal Projects in the project tab!**
+
